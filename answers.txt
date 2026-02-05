@@ -26,3 +26,16 @@ b. Roles and Responsibilities of Scrum Master vs. Product Owner?
     vision to the team. The PO will manage the product's backlog - creating, prioritizing, and refining epics/stories/tasks. They
     are responsible for answering questions such as what and why are we building (this product), serving as the voice of the
     customer in AGILE development. 
+
+c. What are 3 types of meetings that happen during a sprint cycle? List atleast 2 points on what needs to be discussed in these.
+
+    1. Daily Standup: Quick, daily alignment of the team.
+        - What did the team work on yesterday? What do they plan on working on today? 
+        - Are there any blockers or issues that need guidance or assistance? 
+    2. Sprint Review: Demo of completed work and reflection of how the sprint went.
+        - Demo finished features and receive feedback from stakeholders.
+        - What went well, what went poorly, and what can be improved upon in the next sprint.
+    3. Sprint Planning: Decide what work will be done and how it will be completed in the upcoming sprint.
+        - What backlog items (stories / tasks) will be added the the sprint? 
+        - Scope and prioties of the sprint?
+        - What is the acceptance criteries for each item handled in the sprint? 
