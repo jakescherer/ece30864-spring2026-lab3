@@ -1,0 +1,16 @@
+a. What are some pros/cons of Agile development?
+
+    Pros: 
+        - Lower cost to late-stage changes. AGILE uses continuous testing and incremental development so bugs and design issues 
+        are discovered early and dealt with. This makes fixes smaller and cheaper compared to traditional SWE dev models where
+        problems are often not found until the later stages of development - requiring major reworking.
+        - Continuous testing of a working product. Each AGILE sprint delivers a testable, working version of the final product,
+        allowing a SWE team to validate all functionality throughout the development stages rather than waiting until the final
+        stages. 
+    
+    Cons: 
+        - Harder to predict a final cost and timeline. AGILE allows for ongoing changes based on incremental testing and feedback,
+        which in some cases makes it quite difficult to give a timeline and cost estimate in the early stages as we simply wouldn't
+        know the problems and reworkings that need to happen before the final product is delivered. 
+        - Harder to diagram and document throughout. With AGILE and its associated changing stories, tasks, etc, diagrams and 
+        documentation can change frequently, which then need to be updated after each SPRINT. 
