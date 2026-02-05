@@ -39,3 +39,18 @@ c. What are 3 types of meetings that happen during a sprint cycle? List atleast 
         - What backlog items (stories / tasks) will be added the the sprint? 
         - Scope and prioties of the sprint?
         - What is the acceptance criteries for each item handled in the sprint? 
+
+d. Differentiating between epics/stories/bugs/tasks in JIRA.
+
+    Epics: The largest unit of work in a sprint that is able to be broken down into smaller units. Serves to group related stories
+      together and may span multiple sprints. 
+
+    Stories: From the customer/end user perspective, this is a feature or functionality. These should fit into a single sprint,
+      approximately 1-2 weeks and are defined by their acceptance criteria. For example, if the story is "Customer wants to be
+      able to reset their password", the story would be complete once this acceptance criteria/functionality has been implemented.
+
+    Bugs: A defect or issue in existing functionality that requires fixing. The scope of this issue can vary from no-biggie to 
+      detrimental based on severity and serves the purpose of fixing something that is either broken or not working as intended.
+
+    Tasks: The smallest unit of work in a sprint - a single, specific piece of work that needs to be done, typically spanning
+      less than 2 days. Tasks are generally a small step in the process and are often just a sub-step of a Story. 
