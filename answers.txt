@@ -54,4 +54,5 @@ d. Differentiating between epics/stories/bugs/tasks in JIRA.
 
     Tasks: The smallest unit of work in a sprint - a single, specific piece of work that needs to be done, typically spanning
       less than 2 days. Tasks are generally a small step in the process and are often just a sub-step of a Story. 
+
       
