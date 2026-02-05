@@ -14,3 +14,15 @@ a. What are some pros/cons of Agile development?
         know the problems and reworkings that need to happen before the final product is delivered. 
         - Harder to diagram and document throughout. With AGILE and its associated changing stories, tasks, etc, diagrams and 
         documentation can change frequently, which then need to be updated after each SPRINT. 
+
+b. Roles and Responsibilities of Scrum Master vs. Product Owner? 
+
+    Scrum Master: The SM is mainly responsible for facilitating the scrum process. This essentially means that they handle
+    daily meetings, planning, and reviews. They also coach the team on AGILE best practices and ensure collaboration is 
+    happening between the team members. I would summarize the SM's responsibilities as removing the roadblocks to success that
+    a team may be facing as well as constantly asking how they can help improve the effectiveness of their team.
+
+    Product Owner: The product owner (PO), on the other hand, is responponsible for the project's vision and communicating that 
+    vision to the team. The PO will manage the product's backlog - creating, prioritizing, and refining epics/stories/tasks. They
+    are responsible for answering questions such as what and why are we building (this product), serving as the voice of the
+    customer in AGILE development. 
